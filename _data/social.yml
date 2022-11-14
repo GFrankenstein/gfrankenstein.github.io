@@ -1,9 +1,6 @@
 - title: Email
-  url: mailto:zivmsg@gmail.com
+  url: mailto:yangchen@scu.edu.cn
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/zivtwt
-  icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/zivhub
+  url: https://github.com/gfrankenstein
   icon: fab fa-github
