@@ -2,14 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: Personal website.
       - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+        url: https://github.com/GFrankenstein/gfrankenstein.github.io
+      - title: About
+        url: about
 
-  - title: all posts
+  - title: Thoughts
     post_list:
       limit: 5
       show_more: true
@@ -25,14 +26,4 @@ entries:
 
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: About
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+
