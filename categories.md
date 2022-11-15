@@ -1,6 +1,7 @@
 ---
-layout: page
-Title: About
+layout: archive
+type: categories
+Title: Categories
 ---
 
 This is the about page.
