@@ -3,9 +3,14 @@ layout: page
 title: About
 ---
 
-This is an example page!
+My name is YANG Chen, an assistant researcher at Institute of Atomic and Molecular Physics, Sichuan University.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+You can contact me by [e-mail](mailto:yangchen@scu.edu.cn).
 
-Math:
-$\pi=3.1415926$
+Works:
+
+- 2022
+    - arxiv
+    - CPB
+- 2021
+    - arxiv
