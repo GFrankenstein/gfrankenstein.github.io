@@ -1,11 +1,11 @@
 ---
 layout: page
-Title: About
+title: About
 ---
 
-This is the about page.
+This is an example page!
 
-- one
-- two
-- three
+It's very similar to a `post` layout, with the only difference that the publish date is not shown!
 
+Math:
+$\pi=3.1415926$
