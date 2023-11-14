@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Language Tests"
+title: "Language and Math Tests"
 category: example2
 ---
 
@@ -8,7 +8,7 @@ Note: I took this test post from [moving](https://github.com/huangyz0918/moving)
 
 ### 1. 日本語テスト
 
-This is a Japanese test post to show you how japanese is displayed.
+This is a Japanese test post to show you how Japanese is displayed.
 
 私は昨日ついにその助力家というのの上よりするたなけれ。
 最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
@@ -25,7 +25,7 @@ From [すぐ使えるダミーテキスト - 日本語 Lorem ipsum.](http://lips
 
 ### 2. 繁体中文测试
 
-This is a chinese test post to show you how chinese is displayed.
+This is a Chinese test post to show you how Chinese is displayed.
 
 善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。
 
@@ -44,9 +44,16 @@ From [亂數假文產生器 - Chinese Lorem Ipsum.](http://www.richyli.com/tool/
 ### 3. 简体中文测试
 
 效育声去本义然空，各值太法心想，场强实地。 题铁习点儿表管少间千，只何政亲织文意部，千影画派证男须。 手反取长风治增非等直难群，连取及天他己事头级，影数弦适把气快目人。 专议以省通引而千个，格则口段度样水热马，地教少务改磨。 包思外心半院应她算斯，市外会快记路又火学，劳如肃它准众丧边。
-   
+
   > 团算部住县单总边素格军所，合音府教看和广光采率位转，位用品根确针百。 证其标元角工方海接交他，论象切万世认一响义，治然身本风弦带题。 向我次路持加北，她不反心。 说总元军例市决，现始即算证养，规走还壳。
 
 因林可相儿应满军，热影省条律因资再，整肃赤心将届。 局广写两量备验还，南教事争工民的，备进研上布。 素身电活非直，速这区交示从，百层达。 资量那毛什京身，白这快。 半打容三手开常价或，手严量般象式效，名可重芽门适。 来设什一我么，光界美么或，住身式准。 造酸改表委验众办地百养，商物战众本列听度名院，制压录丽快与千机内。 住需当四议决得命南然照按民置，当住命形金决否矿单外。 气象理离开新集增际，三划方工义很年关，拉许准孝口。 构片出干计由备美打养，持育总指承入无己。
 
 From [假文生成器， lorem ipsum Chinese](http://www.cancms.com/content/dummytext)
+
+### 4. Math Tests
+
+This is a stationary Schrödinger equation:
+
+$$\hat{H}\Psi=E\Psi$$
+
